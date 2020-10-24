@@ -4,7 +4,6 @@ import BusinessList from '../BusinessList/BusinessList';
 import SearchBar from '../SearchBar/SearchBar';
 //import { render } from '@testing-library/react';
 //import Business from '../Business/Business';
-//Cambio
 
 class App extends React.Component {
   render() {
