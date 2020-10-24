@@ -13,7 +13,7 @@ const business = {
   state: 'NY',
   zipCode: '10101',
   category: 'Italian',
-  rating: 4.5,
+  rating: 4.4,
   reviewCount: 90
 }
 
